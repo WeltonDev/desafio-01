@@ -21,7 +21,7 @@
   👉 <a href="https://weltondev.github.io/desafio-01/">Página de blog responsiva</a><br>
   <br>
   <b>Comunidade codelândia</b><br>
-  👉 <a href="https://discord.gg/">Codelândia - Discord</a><br>
+  👉 <a href="https://discord.com/channels/853354677411905578/855846897854971914">Codelândia - Discord</a><br>
   <br>
   <b>Projeto no figma</b><br>
 👉 <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=1148%3A2">Desafio 01 - Figma</a>
